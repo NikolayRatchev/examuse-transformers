@@ -2,6 +2,14 @@
 *.html 
 *._files/
 
+# Scratch / debug scripts
+check_transformers.py
+test_eam_generation.py
+
+# Notebook noise
+notebooks/hello.ipynb
+notebooks/*_files/
+
 # Initially taken from Github's Python gitignore file
 
 # Byte-compiled / optimized / DLL files
