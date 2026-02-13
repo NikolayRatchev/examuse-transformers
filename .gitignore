@@ -1,6 +1,7 @@
 # NR additions
 *.html 
 *._files/
+*.png
 
 # Scratch / debug scripts
 check_transformers.py
