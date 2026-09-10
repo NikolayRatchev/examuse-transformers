@@ -2,6 +2,8 @@
 *.html 
 *._files/
 *.png
+!notebooks/Fig6_fitness_scape_plots.png
+!notebooks/Table_1.png
 
 # Scratch / debug scripts
 check_transformers.py
